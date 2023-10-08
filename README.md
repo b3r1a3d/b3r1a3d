@@ -1,5 +1,5 @@
 - 👋 Hi, I’m bautsi
-- 🌱 I’m currently learning C++/Java
+- 🌱 I’m currently learning frontend and a bit backend
 - 📫 How to reach me ...      
      Instagram : bautsi_0313   
      Facebook : 劉育嘉     
